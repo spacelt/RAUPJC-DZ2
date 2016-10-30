@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoItem", "TodoItem\TodoItem.csproj", "{661D315D-B4DF-4DF5-9261-781B3BAF180F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoRepositoryTests", "TodoRepositoryTests\TodoRepositoryTests.csproj", "{152294E9-EF2F-491B-BE9E-1D2A1839B8B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQConsoleApplication1", "LINQConsoleApplication1\LINQConsoleApplication1.csproj", "{25A95830-AFF0-428A-95D1-ECFE83EAC870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQConsoleApplication2", "LINQConsoleApplication2\LINQConsoleApplication2.csproj", "{C778980F-7F73-4B20-845B-68957FF1BB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQConsoleApplication3", "LINQConsoleApplication3\LINQConsoleApplication3.csproj", "{AFC49490-AB41-4364-B7D6-F4761C10DC93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelConsoleApplication", "ParallelConsoleApplication\ParallelConsoleApplication.csproj", "{A9116CB0-70AF-42B2-AC51-78A58F31CE8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncConsoleApplication", "AsyncConsoleApplication\AsyncConsoleApplication.csproj", "{E245F7D7-1831-404B-B9FE-E096A108713A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661D315D-B4DF-4DF5-9261-781B3BAF180F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661D315D-B4DF-4DF5-9261-781B3BAF180F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661D315D-B4DF-4DF5-9261-781B3BAF180F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661D315D-B4DF-4DF5-9261-781B3BAF180F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{152294E9-EF2F-491B-BE9E-1D2A1839B8B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152294E9-EF2F-491B-BE9E-1D2A1839B8B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152294E9-EF2F-491B-BE9E-1D2A1839B8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152294E9-EF2F-491B-BE9E-1D2A1839B8B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A95830-AFF0-428A-95D1-ECFE83EAC870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A95830-AFF0-428A-95D1-ECFE83EAC870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A95830-AFF0-428A-95D1-ECFE83EAC870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A95830-AFF0-428A-95D1-ECFE83EAC870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C778980F-7F73-4B20-845B-68957FF1BB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C778980F-7F73-4B20-845B-68957FF1BB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C778980F-7F73-4B20-845B-68957FF1BB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C778980F-7F73-4B20-845B-68957FF1BB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC49490-AB41-4364-B7D6-F4761C10DC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC49490-AB41-4364-B7D6-F4761C10DC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC49490-AB41-4364-B7D6-F4761C10DC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC49490-AB41-4364-B7D6-F4761C10DC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9116CB0-70AF-42B2-AC51-78A58F31CE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9116CB0-70AF-42B2-AC51-78A58F31CE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9116CB0-70AF-42B2-AC51-78A58F31CE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9116CB0-70AF-42B2-AC51-78A58F31CE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E245F7D7-1831-404B-B9FE-E096A108713A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E245F7D7-1831-404B-B9FE-E096A108713A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E245F7D7-1831-404B-B9FE-E096A108713A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E245F7D7-1831-404B-B9FE-E096A108713A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
